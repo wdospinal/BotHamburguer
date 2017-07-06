@@ -1,0 +1,21 @@
+{
+  "name": "bot-example",
+  "version": "1.0.0",
+  "description": "Is a simple bot created in Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.0.1",
+    "nodemon": "^1.11.0"
+  }
+}
