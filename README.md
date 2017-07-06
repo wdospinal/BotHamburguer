@@ -1,6 +1,9 @@
 # Hamburger Bot Example
 Simple example using bot framework to create a hamburguer buy chatbot.
 
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/imagenesuso.appspot.com/o/capturaHamburguer.PNG?alt=media&token=2cde8e5c-5585-4e5b-ba40-9c030c0acd0d)
+
 ## Tools used along this project
 * [NodeJS](https://nodejs.org) as backend server.
 * [Restify](http://restify.com/) as backend api framework.
