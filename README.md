@@ -28,7 +28,7 @@ We use [airbnb-javascript](https://github.com/airbnb/javascript) as JavaScript s
 
 ## Running the project
 1. Install the project dependencies ```npm install```
-2. Run the app ```npm app.js```
+2. Run the app ```node app.js```
 3. Run [Bot Framework Emulator](https://emulator.botframework.com/)  and connect ```http://localhost:3978/api/messages```
 
 ## Contributing to the project
